@@ -1,4 +1,4 @@
-## Screenchots das páginas criadas
+## Screenshots das páginas criadas
 
 <img width="155" alt="img-mob6-atividade" src="https://github.com/user-attachments/assets/71b29f30-572a-4d11-964d-6ad65e167e98" />
 
